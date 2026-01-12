@@ -1,6 +1,8 @@
-# CircuitDAO Public Issue Tracker
+# CircuitDAO Protocol tracker
 
-This repository is the public entry point for reporting **bugs**, **feature requests**, and **general feedback** for all CircuitDAO projects.
+This repository is the public entry point for reporting **bugs**, **feature requests**, **general feedback** for all CircuitDAO projects.
+
+It also features governance discussions and proposals. 
 
 ## 🚨 Security & Bug Bounty
 
